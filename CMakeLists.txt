@@ -5,5 +5,5 @@ add_executable(knit)
 
 target_sources(knit
     PRIVATE
-        main.cpp
+        src/main.cpp
 )
